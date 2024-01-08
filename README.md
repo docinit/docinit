@@ -9,3 +9,9 @@
 docinit/docinit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+In my repositories:
+- medicine projects;
+- test projects from various courses;
+- distinct projects that I'm ready to tell about.
